@@ -1,0 +1,37 @@
+
+
+.plain-abbrs{
+    text-decoration: none;
+
+}
+.em{
+    font-style: normal;
+    font-weight: 700;
+}
+.site-header{
+    background-color: rgb(161, 255, 255);
+    padding:20px;
+    border-bottom: 4px solid rgb(0, 0, 0); 
+}
+.site-id{
+    margin: 0 0 20px 0;
+}
+.site-content{
+    padding: 0 30px 0 20px;
+}
+
+.site-footer {
+    padding:20px;
+    background-color: #c00;
+    color: white;
+}
+
+.footer-link {
+    color:white;
+    text-decoration: none;
+}
+
+.footer-list {
+    list-style-type: none;
+    padding-inline-start: 0px;
+}
